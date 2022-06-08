@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xBf1aacBBB9ec4Dc7B2c9eFD7510875C861Faf19E",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xbf1aacbbb9ec4dc7b2c9efd7510875c861faf19e",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "RIN",
+    "ID": 4
+  },
+  "NFT_NAME": "SVB",
+  "SYMBOL": "SVB",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.002,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://twitter.com",
+  "SHOW_BACKGROUND": true
+}
